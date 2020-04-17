@@ -1,0 +1,28 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "Esta es una app de prueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fcastilloc/makteitreal01.git"
+  },
+  "keywords": [
+    "js",
+    "git",
+    "npm",
+    "jason"
+  ],
+  "author": "Ing. Fernando Castillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fcastilloc/makteitreal01/issues"
+  },
+  "homepage": "https://github.com/fcastilloc/makteitreal01#readme",
+  "dependencies": {
+    "faker": "^4.1.0"
+  }
+}
